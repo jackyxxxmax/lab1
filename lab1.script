@@ -1,0 +1,22 @@
+Script started on 2016年03月14日 (週一) 16時06分59秒
+]0;F74044012@2015cpp: ~/workspace/lab1[01;32mF74044012@2015cpp[00m:[01;34m~/workspace/lab1[00m$ whoami; pwd
+F74044012
+/home/F74044012/workspace/lab1
+]0;F74044012@2015cpp: ~/workspace/lab1[01;32mF74044012@2015cpp[00m:[01;34m~/workspace/lab1[00m$ git config -l
+user.name=jackyxxxmax
+user.email=qweasdjklzxc@gmail.com
+core.code=vim
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+remote.origin.url=git@github.com:jackyxxxmax/lab1.git
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;F74044012@2015cpp: ~/workspace/lab1[01;32mF74044012@2015cpp[00m:[01;34m~/workspace/lab1[00m$ git clone https://github.com/jackyxxxmax/lab1.git [A
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74044012@2015cpp: ~/workspace/lab1[01;32mF74044012@2015cpp[00m:[01;34m~/workspace/lab1[00m$ exit
+
+Script done on 2016年03月14日 (週一) 16時07分59秒
